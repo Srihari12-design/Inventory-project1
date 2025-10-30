@@ -1,0 +1,28 @@
+[{
+        "sku": "P001",
+        "name": "Laptop",
+        "category": "Electronics",
+        "quantity": 10,
+        "supplier": "HP",
+        "price": 55000,
+        "location": "Shelf A1"
+    },
+    {
+        "sku": "P002",
+        "name": "Keyboard",
+        "category": "Accessories",
+        "quantity": 20,
+        "supplier": "Dell",
+        "price": 1200,
+        "location": "Shelf A2"
+    },
+    {
+        "sku": "P003",
+        "name": "Mouse",
+        "category": "Accessories",
+        "quantity": 30,
+        "supplier": "Logitech",
+        "price": 800,
+        "location": "Shelf A3"
+    }
+]
